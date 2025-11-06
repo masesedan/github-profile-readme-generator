@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://rahuldkjain.github.io/github-profile-readme-generator">
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
@@ -6,6 +7,13 @@
 <h1 align="center">
   GitHub Profile README Generator
 </h1>
+
+# Smartwear Enterprises Kenya
+[![Netlify
+Status] (https://api.netlify.com/api/v1/badges/ef67163b-2a81-4a9c-ae2c-d31de55272e4/deploy-status)](https://app.netlify.com/sites
+/smartwearenterpriseskenya/deploys)
+This is the website for Smartwear Enterprises Kenya
+
 
 <p align="center">
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
@@ -199,3 +207,5 @@ For commercial use of this project, please verify font licensing requirements.
 <p align="center">
 Developed with ❤️ in India 🇮🇳 
 </p>
+
+
